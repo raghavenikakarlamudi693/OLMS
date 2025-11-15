@@ -15,3 +15,11 @@ A web-based system for managing employee leave requests, built with Java, JSP, S
 - Apache Tomcat Server (for running the web app)
 - GitHub for version control
 - Oracle (for data storage)
+
+👩‍💻 Author
+
+Raghaveni Kakarlamudi
+
+📧 raghavenikakarlamudi693@gmil.com
+
+🌐 https://github.com/raghavenikakarlamudi693
